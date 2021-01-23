@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473012157655",
+    "project_id": "orderapp-3f08c",
+    "storage_bucket": "orderapp-3f08c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473012157655:android:9f129945f5846f2a138492",
+        "android_client_info": {
+          "package_name": "com.crisoft.orderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473012157655-60hnig4qg6vvdfpe0u14u3re60drb5pf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crisoft.orderapp",
+            "certificate_hash": "32d720b79028f18ed8705b20a00fc2f3223dcb1a"
+          }
+        },
+        {
+          "client_id": "473012157655-4klvmb8i6epqpsmkm9dheovj0viccfkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Ke594iJaClAvEORfsm3TgUGEW1S77Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473012157655-4klvmb8i6epqpsmkm9dheovj0viccfkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
